@@ -1,0 +1,53 @@
+{
+    "easy": [
+      "plum",
+      "kiwi",
+      "guava",
+      "grape",
+      "peach",
+      "apple",
+      "fig",
+      "lime",
+      "lemon",
+      "mango",
+      "melon",
+      "papaya",
+      "pear",
+      "banana",
+      "cherry"
+    ],
+    "medium": [
+      "pineapple",
+      "blueberry",
+      "watermelon",
+      "blackberry",
+      "raspberry",
+      "cantaloupe",
+      "apricot",
+      "nectarine",
+      "tangerine",
+      "avocado",
+      "grapefruit",
+      "pomegranate",
+      "persimmon",
+      "dragonfruit"
+    ],
+    "hard": [
+      "strawberry",
+      "jackfruit",
+      "rambutan",
+      "cherimoya",
+      "boysenberry",
+      "elderberry",
+      "carambola",
+      "honeydew",
+      "gooseberry",
+      "blackcurrant",
+      "mulberry",
+      "lychee",
+      "durian",
+      "longan",
+      "soursop"
+    ]
+  }
+  
